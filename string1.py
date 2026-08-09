@@ -12,17 +12,8 @@ for i in s:
     elif i.isspace():
          sp=sp+1
 
+
+         
 print("Totla Alphabets:",al)
 print("Total numerics:",nm)
 print("Total spaces:",sp)
-
-
-
-
-
-
-
-
-
-
-         

@@ -1,3 +1,6 @@
+# 5 4 3 2 1 = 15
+
+
 n=int(input("Enter your num N :"))
 sum=0
 
