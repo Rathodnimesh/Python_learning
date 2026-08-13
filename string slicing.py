@@ -69,3 +69,10 @@ print(s[-11:-3:4])
 print(s[-12:-4:5])
 #cd efgh i
 #cg      
+
+s="abcd efgh ijkl"
+#  43210987654321
+
+print(s[:-4:-5])
+#aei      
+      
