@@ -37,4 +37,4 @@ l.popleft()
 print(list(l))
 
 #Fifo
-#lifo
+
