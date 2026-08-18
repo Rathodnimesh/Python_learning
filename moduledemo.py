@@ -12,7 +12,6 @@ while True:
     print("**********")
 
     choice=int(input("Enter your choice:"))
-    print("***Welcome to search for program***")
     if choice==1:
         n1=int(input("Enter Your number:"))
         print("**********")
