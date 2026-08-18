@@ -4,6 +4,7 @@ s2={1,3,5,6,7,8}
 print(s1)
 print(s2)
 
+
 s1.add(101)
 print(s1)
 
@@ -11,6 +12,7 @@ print(s1)
 
 print(s1.difference(s2))
 s1.discard(101)
+
 
 print(s1)
 print(s1.intersection(s2))
@@ -38,4 +40,5 @@ l1=[10,20,30,40,50,10,20]
 s4=set(l1)
 print(s4)
 print(list(s4))
+
 

@@ -1,4 +1,4 @@
-d={101:"Disha",900:"Ajay",345:"Nimesh",567:"Smit",678:"Dhwanit"}
+d={101:"Ajay",900:"vijay",345:"sanjay",567:"Dharm",678:"vinod"}
 
 
 
@@ -13,20 +13,20 @@ print(d.items())
 print(d.keys())
 
 print(d.values())
-print(d.pop(567))
+print(d.pop(678))
 print(d)
 
 print(d.popitem())
 print(d)
 
 
-d1={567:"smit",678:"Dhawanit"}
+d1={567:"karan",678:"mahesh"}
 d.update(d1)
 
 print(d)
 
 
-d[900]="jigar"
+d[900]="ketan"
 print(d)
 
 

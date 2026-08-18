@@ -3,8 +3,6 @@ n2={1,2,3,4,5,6,7,8}
 
 print(n1)
 
-print(n2)
-
 n1.add(102)
 print(n1)
 
