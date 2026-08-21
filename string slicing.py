@@ -56,6 +56,13 @@ print(s[::-2])
 #ljgedb
 
 
+
+
+print(s[::2])
+# abcd efgh ijkl
+#ljgedb
+
+
 print(s[::-3])
 #abcd efgh ijkl
 #ligb
